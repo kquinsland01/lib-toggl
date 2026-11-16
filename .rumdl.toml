@@ -1,0 +1,6 @@
+[global]
+# Preserve the existing Markdown line-length policy.
+disable = ["MD013"]
+exclude = ["LICENSE"]
+respect-gitignore = true
+flavor = "gfm"
